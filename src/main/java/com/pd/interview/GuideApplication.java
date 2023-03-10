@@ -8,6 +8,7 @@ public class GuideApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GuideApplication.class, args);
+
     }
 
 }
